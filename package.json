@@ -1,0 +1,31 @@
+{
+  "name": "console-colorify",
+  "version": "1.0.0",
+  "description": "A NPM library to colorify the console logs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venom-712/console-colorify.git"
+  },
+  "keywords": [
+    "console log colors",
+    "colorify logs"
+  ],
+  "author": "Siddharth KG <themonty712@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/venom-712/console-colorify/issues"
+  },
+  "homepage": "https://github.com/venom-712/console-colorify#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
