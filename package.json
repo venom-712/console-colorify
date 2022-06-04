@@ -1,5 +1,5 @@
 {
-  "name": "console-colorify",
+  "name": "@venom712/console-colorify",
   "version": "1.0.0",
   "description": "A NPM library to colorify the console logs",
   "main": "lib/index.js",
